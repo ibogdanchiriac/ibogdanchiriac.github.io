@@ -6,10 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### ☑ TODO
 
-- ☑ Learn HTML
-- ☑ Learn CSS
-- ☑ Learn JavaScript
-- [ ] Learn DOM Manipulation
+  [X] Learn HTML
+  [X] Learn CSS
+  [X] Learn JavaScript
+  [ ] Learn DOM Manipulation
 
 ### Markdown
 
