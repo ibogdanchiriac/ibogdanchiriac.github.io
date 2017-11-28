@@ -5,10 +5,10 @@ You can use the [editor on GitHub](https://github.com/ibogdanchiriac/ibogdanchir
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### What I want to Learn
-☑ Learn HTML
-☑ Learn CSS
-☑ Learn JavaScript
-☐ Learn DOM Manipulation
+☑ Learn HTML  
+☑ Learn CSS  
+☑ Learn JavaScript  
+☐ Learn DOM Manipulation  
 
 ### Markdown
 
